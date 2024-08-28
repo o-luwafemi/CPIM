@@ -9,13 +9,6 @@ def denoise(img, n = 7, v = 21):
 
 
 
-
-
-
-
-
-
-
 st.title('Computational Photography')
 
 up_file = st.file_uploader("Choose a file", ['png','jpg'])
